@@ -13,9 +13,6 @@ project_entries:
     url: overview-post
     desc: Projects are shown in card layout
 old_project_entries:
-  - title: moonwalk
-    url: 'https://github.com/abhinavs/moonwalk'
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
   - title: humangous
     url: 'http://www.humangous.co'
     desc: 'The better people know you, the better they collaborate'

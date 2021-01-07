@@ -12,10 +12,7 @@ project_entries:
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
-old_project_entries:
-  - title: avnee
-    url: 'http://www.avnee.co'
-    desc: New age kids require new ways of parenting
+old_project_entries: []
 footer_entries:
   - title: abhinav's homepage
     url: 'http://www.abhinav.co'

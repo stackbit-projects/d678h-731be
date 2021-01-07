@@ -15,10 +15,6 @@ project_entries:
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
-  - title: Project 4
-    url: overview-post
-    desc: 'This project uses highlight markup, configured in _data/home.yml'
-    highlight: WIP
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'

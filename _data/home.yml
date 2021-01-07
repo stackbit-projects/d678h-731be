@@ -16,10 +16,6 @@ old_project_entries:
   - title: avnee
     url: 'http://www.avnee.co'
     desc: New age kids require new ways of parenting
-  - title: year progress
-    url: 'https://year-progress.herokuapp.com/'
-    desc: A bot written for slack that shows current year in a progress bar
-    highlight: archived
 footer_entries:
   - title: abhinav's homepage
     url: 'http://www.abhinav.co'

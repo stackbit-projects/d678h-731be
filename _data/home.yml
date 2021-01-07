@@ -12,9 +12,6 @@ project_entries:
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'

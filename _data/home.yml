@@ -13,9 +13,6 @@ project_entries:
     url: overview-post
     desc: Projects are shown in card layout
 old_project_entries:
-  - title: microrequests
-    url: 'http://www.abhinav.co/microrequests'
-    desc: A Python library to consume microservices more efficiently
   - title: blockr
     url: 'http://www.abhinav.co/blockr'
     desc: A CLI tool to help you easily block and unblock websites
